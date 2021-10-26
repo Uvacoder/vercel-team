@@ -6,7 +6,7 @@ import delba from '../public/delba.jpg'
 import steven from '../public/steven.jpg'
 import steph from '../public/steph.jpg'
 import hassan from '../public/hassan.jpg'
-
+import animecouple from '../public/animecouple.jpg'
 
 const team = [
   {
@@ -43,6 +43,13 @@ const team = [
     image: hassan,
     twitterUrl: 'https://twitter.com/Nutlope',
     githubUrl: 'https://github.com/nutlope'
+  },
+  {
+    name: 'Lovebirds',
+    role: 'Roleplaying',
+    image: animecouple,
+    twitterUrl: 'https://twitter.com/AlecCam43544378',
+    githubUrl: 'https://github.com/uvacoder'
   }
 ]
 
