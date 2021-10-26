@@ -7,6 +7,7 @@ import steven from '../public/steven.jpg'
 import steph from '../public/steph.jpg'
 import hassan from '../public/hassan.jpg'
 
+
 const team = [
   {
     name: 'Lee Robinson',
